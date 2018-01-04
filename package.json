@@ -1,0 +1,14 @@
+{
+  "name": "spacio-temporal-filters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ava": "^0.24.0"
+  }
+}
